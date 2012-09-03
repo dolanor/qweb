@@ -1,6 +1,6 @@
 What is QWeb ?
 --------------
-QWeb is web framework (mainly an XML templating system) implemented in various laguages.
+QWeb is web framework (mainly an XML templating system) implemented in various languages.
 
 The core component of qweb is its cool XML templating engine. Some versions
 only implements that. While others (python/php) provide additional components.
@@ -14,7 +14,7 @@ else on the market in 2011.
 What is Ajaxterm ?
 ------------------
 Ajaxterm is an ajax terminal it was made as a showcase for the python version
-of QWeb. It only uses the QWeb request handler, not thei xml template engine.
+of QWeb. It only uses the QWeb request handler, not their xml template engine.
 
 I plan to separate it from qweb and update it to use WebOb instead of qweb.Request.
 
